@@ -1,11 +1,17 @@
 ### Hello there 👋
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxMD&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FoxMD&show_icons=true&theme=radical" />
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <!--
 **FoxMD/FoxMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxMD&hide=html,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
