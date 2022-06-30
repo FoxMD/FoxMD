@@ -1,5 +1,5 @@
 ### Hello there 👋
-<img align="left" width="47%" src="https://github-readme-stats-plum-beta-21.vercel.app/api/top-langs/?username=FoxMD&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-plum-beta-21.vercel.app/api/top-langs/?username=FoxMD&exclude_repo=cube_ide_cmake_c_f303&layout=compact" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FoxMD&show_icons=true&theme=dark" />
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
